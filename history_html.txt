@@ -1,0 +1,18 @@
+<HTML>
+
+<HEAD>
+
+<TITLE> Historia </TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="FFFFFF">
+
+<H1>Historia</H1>
+
+<P> Esta es la historia de la compañia.</P>
+
+</BODY>
+
+</HTML>
+
